@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "RU1J002YN")(type "Legacy")(uri "${KIPRJMOD}/ul_RU1J002YNTCL/KiCAD/2022-04-14_18-46-42/2022-04-14_18-46-42.lib")(options "")(descr ""))
+  (lib (name "KLPX-0848A-2-B")(type "Legacy")(uri "${KIPRJMOD}/ul_KLPX-0848A-2-B/KiCAD/2022-04-14_19-35-52/2022-04-14_19-35-52.lib")(options "")(descr ""))
+)
