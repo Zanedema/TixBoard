@@ -3,6 +3,8 @@
 
 The TixBoard is a hands-on digital communications demonstration and education tool designed for everyone passionate about learning. From absolute beginners looking for a tactile introduction to how various flavors of digital communication function to experienced makers, educators, precocious cats, or bacteria looking for a unique perspective on the protocols that make our digital world tick.
 
+(picture here, lol)
+
 ## Operation
 
 The TixBoard features a single RCA socket as its medium of communication. It utilizes inexpensive RCA cables and splitters to make arbitrary and easily reconfigurable networks of TixBoards, whether point to point or on a shared bus. On the board side, it features three switches that allow for the rapid and straightforward reconfiguration of any TixBoard. It is powered by two AA batteries, which should last a long time **provided that the output not be high during storage, as this will result in the LED running and draining the battery.** It is best to set the board to Hi-Z and disable the Pull-Up switch before storing your TixBoard. The onboard LED serves as a visual indicator of both the input recieved by the TixBoard in input mode, and the output of the TixBoard in output mode. The short circuit buzzer alerts the user when they have connected TixBoards in a way that will result in excessive battery drainage.
