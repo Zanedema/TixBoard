@@ -1147,7 +1147,7 @@
     (property "Value" "10μF" (id 1) (at 176.3141 112.1985 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (id 2) (at 173.99 110.49 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (id 2) (at 173.99 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 173.99 110.49 0)
@@ -1441,7 +1441,7 @@
       (reference "BZ1") (unit 1) (value "Buzzer") (footprint "PKM13EPYH4000-A0:SPKR_PKM13EPYH4000-A0")
     )
     (path "/6942edd1-0ba6-453d-957e-b3b7fa528bf9"
-      (reference "C1") (unit 1) (value "10μF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+      (reference "C1") (unit 1) (value "10μF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/1cd534f3-3a3a-4350-959a-ea3b2fc71750"
       (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
