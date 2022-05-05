@@ -4,4 +4,5 @@
   (lib (name "EG1218")(type "KiCad")(uri "${KIPRJMOD}/EG1218")(options "")(descr ""))
   (lib (name "PKM13EPYH4000-A0")(type "KiCad")(uri "${KIPRJMOD}/PKM13EPYH4000-A0")(options "")(descr ""))
   (lib (name "BC2AAPC")(type "KiCad")(uri "${KIPRJMOD}/BC2AAPC")(options "")(descr ""))
+  (lib (name "JS102011SCQN")(type "KiCad")(uri "${KIPRJMOD}/ul_JS102011SCQN/KiCAD/footprints.pretty")(options "")(descr ""))
 )
